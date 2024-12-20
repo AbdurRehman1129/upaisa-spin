@@ -1,0 +1,1 @@
+# upaisa-spin
